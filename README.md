@@ -1,9 +1,5 @@
 # 🛡️ Jaafar OUAFI | Security Researcher & Engineering Student 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4R-SP999&layout=compact&theme=tokyonight&hide_border=true" alt="Jaafar's Top Langs" />
-</p>
-
 ### 👤 About Me
 - 🎓 **Computer Engineering Student**.
 - 🛡️ Passionate about **Offensive Security** and **Penetration Testing**.
