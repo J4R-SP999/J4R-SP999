@@ -33,3 +33,7 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaafar-ouafi-6a996a3aa/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/J4R-SP999)
+
+<p align="center">
+  <i>"Automating the offensive, securing the future."</i>
+</p>
