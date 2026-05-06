@@ -1,7 +1,7 @@
 # 🛡️ Jaafar OUAFI | Security Researcher & Engineering Student 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J4R-SP999&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Jaafar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4R-SP999&layout=compact&theme=tokyonight&hide_border=true" alt="Jaafar's Top Langs" />
 </p>
 
 ### 👤 About Me
